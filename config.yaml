@@ -68,3 +68,5 @@ instructors:
 # Learner Profiles
 profiles: 
 
+# Test dark mode 
+varnish: carpentries/varnish#124
