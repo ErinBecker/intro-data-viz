@@ -12,4 +12,4 @@ Learners need the following prerequisite skills and knowledge:
 - Have previously seen a chart or graph
 - Have some exposure to tabular data
 - Have attempted to create a chart or graph using a spreadsheet application
-- Download and save data and images to a local computer or personal account
+- Download and save data and images to a local computer or personal account 
